@@ -11,6 +11,7 @@ Components used:
 The resistors and potentiometer are not required, you can just wire the components directly.
 
 ## Making the unbeatable Tic-Tac-Toe game yourself
+![](https://github.com/VitoLin/tinytictactoe/blob/main/circuit.png)
 1. You can reference the tinkercad design [here](https://www.tinkercad.com/things/ewSBIPnRqvL-ai-tic-tac-toe) to wire up the circuit.
 
 2. For the code, you can paste the code in `arduino.ino` into the Arduino IDE. Then drag in the `move_table.h` file into the same folder as the `arduino.ino` file.
@@ -48,7 +49,7 @@ The resistors and potentiometer are not required, you can just wire the componen
    pip install -e .
    ```
 
-## Updating
+### Updating
 You can add packages to your project by running:
 ```bash
 uv add <package>
