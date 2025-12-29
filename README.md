@@ -1,4 +1,14 @@
-# Tic-Tac-Toe game AI using the Minimax Algorithm
+# Tiny-Tic-Tac-Toe
+This is a simple arduino project that uses the minimax algorithm to create an unbeatable Tic-Tac-Toe game.
+
+Components used:
+| Component      | Required | Notes |
+|----------------|----------|-------|
+| Arduino Uno R3 | 1        | Any similar Arduino would work, this is just the one I used |
+| LCD 16x2       | 1        | If you have a better LCD display I would use that, this is just what I had on hand|
+| Push Buttons   | 3        |       |
+
+The resistors and potentiometer are not required, you can just wire the components directly.
 
 ## Making the unbeatable Tic-Tac-Toe game yourself
 1. You can reference the tinkercad design [here](https://www.tinkercad.com/things/ewSBIPnRqvL-ai-tic-tac-toe) to wire up the circuit.
